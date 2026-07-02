@@ -1,0 +1,4 @@
+record_id,IWP_ID,progress_date,qty_installed,reported_by,data_quality_flag
+809,IWP-0123,2026-07-02,-43.9,Taylor Thomas,Negative qty
+812,IWP-0411,2026-07-02,,Cheryl Taylor,Missing qty_installed
+816,IWP-0018,2026-07-02,-41.1,Micheal Leblanc,Negative qty
