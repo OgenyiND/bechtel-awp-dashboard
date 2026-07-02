@@ -3,6 +3,10 @@
 A simulated EPC project automation system built to demonstrate construction 
 digital delivery skills relevant to Bechtel's Construction Automation team.
 
+## System Architecture
+
+![AWP Construction Automation Architecture](architecture/awp_architecture_diagram.svg)
+
 ## Tech Stack
 - **SQL Server 2022** — database and data validation queries
 - **Python** — data generation and daily automation script
