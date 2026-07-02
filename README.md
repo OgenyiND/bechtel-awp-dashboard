@@ -5,7 +5,18 @@ digital delivery skills relevant to Bechtel's Construction Automation team.
 
 ## System Architecture
 
-![AWP Construction Automation Architecture](architecture/awp_architecture_diagram.png)
+<h2 align="center">System Architecture</h2>
+
+<p align="center">
+  <img src="docs/awp_architecture_diagram.png"
+       alt="AWP Construction Automation Architecture"
+       width="1100">
+</p>
+
+## Dictionary
+## Documentation
+
+- 📘 [Construction Automation User Guide](docs/AWP_Dashboard_User_Guide.pdf)
 
 ## Tech Stack
 - **SQL Server 2022** — database and data validation queries
